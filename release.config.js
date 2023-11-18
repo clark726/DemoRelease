@@ -1,4 +1,4 @@
-//release.config.js
+//release.config.js   
 module.exports = {
   branches: ['main'],
   plugins: [

@@ -1,0 +1,19 @@
+{
+  "name": "demorelease",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/clark726/DemoRelease.git"
+  },
+  "author": "clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clark726/DemoRelease/issues"
+  },
+  "homepage": "https://github.com/clark726/DemoRelease#readme"
+}
